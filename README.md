@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gauririkame
-- 👀 I’m interested in solving complex problems and developing new technologies ...
-- 🌱
+- 👀 I’m passionate about  solving complex problems and developing new technologies ...
+-  
 
 <!---
 gauririkame/gauririkame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
